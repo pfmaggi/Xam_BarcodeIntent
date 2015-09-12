@@ -1,0 +1,15 @@
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\bin\Debug\ScannerBarcode.dll
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\bin\Debug\ScannerBarcode.pdb
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\bin\Debug\com.pietromaggi.sample.barcodeIntent.apk
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\bin\Debug\com.pietromaggi.sample.barcodeIntent-Signed.apk
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\bin\Debug\Symbol.XamarinEMDK.dll
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\bin\Debug\Symbol.XamarinEMDK.xml
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\ScannerBarcode.dll
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\ScannerBarcode.pdb
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\android\bin\com.pietromaggi.sample.barcodeIntent.apk
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\res\layout\main.xml
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\res\values\strings.xml
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\res\drawable\icon.png
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\R.cs.flag
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\uploadflags.txt
+C:\Maggi\src\VS2013\Workshop\ScannerBarcode\ScannerBarcode\obj\Debug\ScannerBarcode.csprojResolveAssemblyReference.cache
